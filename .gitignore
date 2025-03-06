@@ -171,3 +171,8 @@ cython_debug/
 .pypirc
 #MAC
 .DS_Store
+
+chroma_db_education/
+chroma_db_operaion/
+education/
+operation/
